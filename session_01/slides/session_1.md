@@ -9,7 +9,7 @@
 ---
 
 # Course Overview
-- 10 weeks
+- 10 weeks#python2020
 - Tuesday — 10–11am - Lesson
 - Thursday — 10–11am - Answers
 
